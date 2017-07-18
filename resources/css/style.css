@@ -50,3 +50,26 @@ a {
 }
 
 /* Main Content */
+
+.main {
+  padding-top: 69px;
+  width: 1200px;
+  margin: auto;
+}
+
+/* Mission Content */
+
+#mission {
+  display: flex;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
+  height: 700px;
+  width: 1200px;
+}
+
+.mission-content {
+  background-color: black;
+  margin: auto;
+  width: 100%;
+}
+
+/* Featured Tea Content */
