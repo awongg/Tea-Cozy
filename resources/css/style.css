@@ -73,6 +73,12 @@ a {
   width: 100%;
 }
 
+h2
+h4
+h5 {
+  padding: 5px;
+}
+
 /* Featured Tea Content */
 
 #featured {
@@ -115,6 +121,12 @@ a {
   margin: 5px 20px;
   width: 300px;
   opacity: 1;
+}
+
+/* Contact Content */
+
+.contact {
+  height: 200px;
 }
 
 /* Footer Content */
