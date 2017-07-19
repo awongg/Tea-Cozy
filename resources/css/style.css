@@ -102,13 +102,19 @@ a {
 /* Locations Content */
 
 #locations {
-
+  padding-top: 70px;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg);
+  height: 500px;
+  width: 1200px;
 }
 
 .location {
-
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  margin: 5px 20px;
+  width: 300px;
+  opacity: 1;
 }
 
-p {
-  
-}
+/* Footer Content */
